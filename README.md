@@ -9,6 +9,8 @@ If you want to change the errors, you should rather learn how to use the github 
 
 You may also create a new branch and add comment.
 
+You may also star the project and follow my account so that next time you do not need to search again.
+
 I'm very happy to see you can get what you want here!
 
 Teacher:CAI ZHANCHUAN
