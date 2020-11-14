@@ -1,5 +1,4 @@
 # Numerical Analysis 
- Numerical Analysis 
  
 You can get all the homework here for the numerical-analysis.
 I may have many errors in the tex files and you may can change the errors.
